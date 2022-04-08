@@ -1,0 +1,31 @@
+.new-dream__controls{
+    color: rgb(148, 4, 148);
+    font-weight:bold ;
+    letter-spacing: 5px;
+    text-align: center;
+text-transform: uppercase;
+
+}
+
+.new-dream__actions{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+button{
+    border-radius: 15px;
+    border: none;
+    color: hsl(271, 76%, 53%);
+    background-color: #98e2c9;
+cursor: pointer;    
+}
+
+.new-dream{
+    height: 10rem;
+    text-align: center;
+}
+

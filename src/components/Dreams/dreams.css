@@ -1,0 +1,38 @@
+.dream-date {
+
+    width: 70px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    border: 1px solid rgb(194, 194, 233);
+}
+
+
+
+.dream-list {
+    width: 55%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.dreme-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(20, 99, 99);
+    padding-right: 15%;
+
+}
+.dream__item{
+  
+list-style: none;
+
+}
+.card{
+    display: flex;
+   
+}
